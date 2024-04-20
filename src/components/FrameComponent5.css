@@ -1,0 +1,106 @@
+.mind-body-connection {
+  position: relative;
+}
+.mind-body-connection-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-20xl);
+}
+.keep-your-mind {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-300);
+  text-align: right;
+}
+.frame-parent18,
+.frame-wrapper16 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent18 {
+  align-self: stretch;
+  gap: var(--gap-5xs);
+}
+.frame-wrapper16 {
+  flex: 1;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  min-width: 159px;
+}
+.frame-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 100%;
+}
+.lotus-position-1-icon {
+  position: absolute;
+  top: 14px;
+  left: 18px;
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipse-parent6 {
+  height: 100px;
+  flex: 1;
+  position: relative;
+}
+.frame-parent16,
+.frame-parent17,
+.frame-wrapper17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper17 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+  min-width: 100px;
+  z-index: 2;
+}
+.frame-parent16,
+.frame-parent17 {
+  width: 361px;
+  gap: var(--gap-base);
+  max-width: 100%;
+}
+.frame-parent16 {
+  width: 1185px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1050px) {
+  .frame-parent16 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .mind-body-connection {
+    font-size: var(--font-size-base);
+  }
+  .frame-wrapper17 {
+    flex: 1;
+  }
+  .frame-parent17 {
+    flex-wrap: wrap;
+  }
+}

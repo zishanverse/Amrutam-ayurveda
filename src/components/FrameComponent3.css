@@ -1,0 +1,490 @@
+.frame-child11 {
+  height: 6px;
+  width: 593px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 4px;
+  left: -37.5px;
+  background-color: var(--color-lightgray-200);
+}
+.our-ayurvedic-approach {
+  margin: 0;
+  width: 525px;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.frame-wrapper24,
+.rectangle-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent2 {
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-wrapper24 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-8xl);
+  box-sizing: border-box;
+}
+.at-amrutam-we {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 24px;
+  color: var(--color-darkslategray-300);
+  display: inline-block;
+  min-height: 78px;
+}
+.frame-parent22 {
+  width: 772px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.frame-wrapper23 {
+  width: 1206px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-darkolivegreen-200);
+  border: 0 solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.div {
+  position: absolute;
+  top: 14px;
+  left: 31.5px;
+  z-index: 1;
+}
+.ellipse-parent7 {
+  height: 90px;
+  width: 90px;
+  position: relative;
+}
+.frame-wrapper26 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.make-appointment,
+.you-must-make {
+  align-self: stretch;
+  position: relative;
+}
+.you-must-make {
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-400);
+}
+.make-appointment-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkolivegreen-100);
+}
+.frame-parent24,
+.frame-wrapper25,
+.make-appointment-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent24 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xl);
+}
+.frame-wrapper25 {
+  flex: 0.9476;
+  border-radius: var(--br-xl);
+  background-color: var(--color-oldlace);
+  box-shadow: 0 4px 9px rgba(0, 0, 0, 0.11);
+  border-top: 4px solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-4xl) var(--padding-mid) var(--padding-20xl)
+    var(--padding-xl);
+  min-width: 267px;
+  max-width: 290px;
+}
+.frame-child13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-darkolivegreen-200);
+  border: 0 solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.div1 {
+  position: absolute;
+  top: 13px;
+  left: 31px;
+  z-index: 1;
+}
+.ellipse-parent8 {
+  height: 90px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper28 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-60xl);
+}
+.consultations1 {
+  margin: 0;
+}
+.consultations,
+.the-next-stage {
+  align-self: stretch;
+  position: relative;
+}
+.the-next-stage {
+  font-size: var(--font-size-xl);
+  line-height: 24px;
+  color: var(--color-darkslategray-400);
+  display: inline-block;
+  min-height: 78px;
+}
+.consultations-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkolivegreen-100);
+}
+.consultations-parent,
+.frame-parent25,
+.frame-wrapper27 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent25 {
+  width: 248px;
+  flex-direction: column;
+  gap: var(--gap-5xl);
+}
+.frame-wrapper27 {
+  flex: 0.9513;
+  border-radius: var(--br-xl);
+  background-color: var(--color-oldlace);
+  box-shadow: 0 4px 9px rgba(0, 0, 0, 0.11);
+  border-top: 4px solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-9xl) var(--padding-lg);
+  min-width: 267px;
+  max-width: 290px;
+  min-height: 315px;
+}
+.frame-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-darkolivegreen-200);
+  border: 0 solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.div2 {
+  position: absolute;
+  top: 14px;
+  left: 31px;
+  display: inline-block;
+  min-width: 27px;
+  z-index: 1;
+}
+.ellipse-parent9 {
+  height: 90px;
+  width: 90px;
+  position: relative;
+}
+.frame-wrapper30 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.the-ayurvedic-practitioner,
+.treatment-planning {
+  align-self: stretch;
+  position: relative;
+}
+.the-ayurvedic-practitioner {
+  font-size: var(--font-size-xl);
+  line-height: 24px;
+  color: var(--color-darkslategray-400);
+  display: inline-block;
+  min-height: 78px;
+}
+.treatment-planning-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkolivegreen-100);
+}
+.frame-parent26,
+.frame-wrapper29,
+.treatment-planning-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent26 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-5xl);
+}
+.frame-wrapper29 {
+  flex: 0.9513;
+  border-radius: var(--br-xl);
+  background-color: var(--color-oldlace);
+  box-shadow: 0 4px 9px rgba(0, 0, 0, 0.11);
+  border-top: 4px solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-7xl) var(--padding-mid) var(--padding-7xl)
+    var(--padding-lgi);
+  min-width: 267px;
+  max-width: 290px;
+  min-height: 315px;
+}
+.frame-child15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-darkolivegreen-200);
+  border: 0 solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.div3 {
+  position: absolute;
+  top: 11px;
+  left: 31.5px;
+  display: inline-block;
+  min-width: 27px;
+  z-index: 1;
+}
+.ellipse-parent10 {
+  height: 90px;
+  width: 90px;
+  position: relative;
+}
+.frame-wrapper32 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.maintenance {
+  align-self: stretch;
+  position: relative;
+}
+.these-visits-allow {
+  width: 245px;
+  height: 104px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-400);
+  display: inline-block;
+}
+.frame-parent27,
+.maintenance-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.maintenance-parent {
+  align-self: stretch;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkolivegreen-100);
+}
+.frame-parent27 {
+  flex: 1;
+  gap: var(--gap-5xl);
+}
+.frame-parent23,
+.frame-wrapper31 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-wrapper31 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-oldlace);
+  box-shadow: 0 4px 9px rgba(0, 0, 0, 0.11);
+  border-top: 4px solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-4xs) var(--padding-10xl)
+    var(--padding-sm);
+  min-width: 267px;
+  max-width: 290px;
+}
+.frame-parent23 {
+  align-self: stretch;
+  justify-content: center;
+  gap: var(--gap-5xl);
+  color: var(--color-white);
+}
+.frame-parent21 {
+  width: 1232px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-60xl);
+  max-width: 100%;
+}
+.desktop-76-inner1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-87xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-darkolivegreen-100);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1050px) {
+  .div,
+  .div1,
+  .our-ayurvedic-approach {
+    font-size: var(--font-size-19xl);
+  }
+  .frame-wrapper27 {
+    min-height: auto;
+  }
+  .div2 {
+    font-size: var(--font-size-19xl);
+  }
+  .frame-wrapper29 {
+    min-height: auto;
+  }
+  .div3 {
+    font-size: var(--font-size-19xl);
+  }
+  .frame-parent23 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent21 {
+    gap: var(--gap-20xl);
+  }
+  .desktop-76-inner1 {
+    padding-bottom: var(--padding-50xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-ayurvedic-approach {
+    font-size: var(--font-size-10xl);
+  }
+  .at-amrutam-we {
+    font-size: var(--font-size-base);
+  }
+  .div {
+    font-size: var(--font-size-10xl);
+  }
+  .make-appointment {
+    font-size: var(--font-size-lgi);
+  }
+  .you-must-make {
+    font-size: var(--font-size-base);
+  }
+  .frame-wrapper25 {
+    flex: 1;
+  }
+  .div1 {
+    font-size: var(--font-size-10xl);
+  }
+  .consultations {
+    font-size: var(--font-size-lgi);
+  }
+  .the-next-stage {
+    font-size: var(--font-size-base);
+  }
+  .frame-wrapper27 {
+    flex: 1;
+  }
+  .div2 {
+    font-size: var(--font-size-10xl);
+  }
+  .treatment-planning {
+    font-size: var(--font-size-lgi);
+  }
+  .the-ayurvedic-practitioner {
+    font-size: var(--font-size-base);
+  }
+  .frame-wrapper29 {
+    flex: 1;
+  }
+  .div3 {
+    font-size: var(--font-size-10xl);
+  }
+  .maintenance {
+    font-size: var(--font-size-lgi);
+  }
+  .these-visits-allow {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent21 {
+    gap: var(--gap-xl);
+  }
+}

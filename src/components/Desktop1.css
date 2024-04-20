@@ -1,0 +1,217 @@
+.amrutam-home-app,
+.the-amrutam-home {
+  position: relative;
+  display: inline-block;
+}
+.amrutam-home-app {
+  margin: 0;
+  font-size: inherit;
+  line-height: 68px;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  max-width: 100%;
+}
+.the-amrutam-home {
+  align-self: stretch;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  line-height: 19.64px;
+  color: var(--color-dimgray-100);
+  min-height: 63px;
+}
+.amrutam-home-app-parent {
+  width: 543px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+  max-width: 100%;
+}
+.get-a-diet {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 140%;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-black);
+}
+.frame-parent54 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.get-the-app {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-17xl);
+  letter-spacing: -0.13px;
+  line-height: 140%;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-black);
+}
+.frame-parent53 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-46xl);
+  max-width: 100%;
+}
+.image-67-icon,
+.image-68-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-width: 177px;
+  min-height: 80px;
+}
+.frame-parent52,
+.image-67-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.image-67-parent {
+  width: 559px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-mid);
+}
+.frame-parent52 {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  width: 574px;
+  flex-direction: column;
+  gap: var(--gap-14xl);
+}
+.group-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 510px;
+  max-height: 100%;
+  width: 734px;
+  z-index: 1;
+}
+.frame-parent51 {
+  height: 565px;
+  flex: 1;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 100%;
+}
+.desktop-26-inner {
+  width: 1344px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-31xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.desktop-26,
+.desktop-26-child {
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.desktop-26-child {
+  height: 542px;
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  debug_commit: 1de1738;
+}
+.desktop-26 {
+  margin-right: -1px;
+  height: 707px;
+  background-color: var(--color-oldlace);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-46xl) 0 var(--padding-58xl);
+  box-sizing: border-box;
+  gap: var(--gap-58xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-darkolivegreen-100);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1200px) {
+  .desktop-26-inner {
+    padding-left: var(--padding-6xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .desktop-26 {
+    padding-top: var(--padding-23xl);
+    padding-bottom: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .amrutam-home-app {
+    font-size: var(--font-size-19xl);
+    line-height: 54px;
+  }
+  .get-a-diet {
+    font-size: var(--font-size-7xl);
+    line-height: 36px;
+  }
+  .get-the-app {
+    font-size: var(--font-size-10xl);
+    line-height: 40px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent51 {
+    height: auto;
+    min-height: 565;
+  }
+  .desktop-26 {
+    height: auto;
+    gap: var(--gap-19xl);
+    padding-top: var(--padding-8xl);
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .amrutam-home-app {
+    font-size: var(--font-size-10xl);
+    line-height: 40px;
+  }
+  .get-a-diet {
+    font-size: var(--font-size-lgi);
+    line-height: 27px;
+  }
+  .get-the-app {
+    font-size: var(--text-single-400-bold-size);
+    line-height: 30px;
+  }
+  .desktop-26 {
+    gap: var(--gap-lgi);
+  }
+}

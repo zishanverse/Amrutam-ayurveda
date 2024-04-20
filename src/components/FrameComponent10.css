@@ -1,0 +1,209 @@
+.frame-inner {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 651px;
+  max-height: 100%;
+  width: 789px;
+  
+}
+.frame-inner-sm {
+  display: none;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 651px;
+  max-height: 100%;
+  width: 789px;
+  object-fit: contain;
+}
+@media (max-width: 575px) {
+  .frame-inner {
+    display: none;
+  }
+  .rectangle-div,
+  .rectangle-icon {
+    display: none;
+  }
+  .frame-inner-sm {
+    display: inline;
+  }
+}
+.rectangle-div {
+  position: absolute;
+  top: 640px;
+  left: 658px;
+  background-color: var(--color-brown);
+  filter: blur(0.3px);
+  width: 658px;
+  height: 640px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.rectangle-icon {
+  top: 1px;
+  left: -2px;
+  z-index: 2;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  width: 1440px;
+  height: 640px;
+}
+.namaste-welcome-to {
+  margin: 0;
+  width: 440px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.step-into-holistic {
+  color: var(--color-white);
+}
+.ayurveda {
+  text-decoration: underline;
+  color: var(--color-oldlace);
+}
+.step-into-holistic-healing-wit {
+  margin: 0;
+}
+.book-consultation-with {
+  text-transform: capitalize;
+}
+.book-consultation-with-certifi {
+  margin: 0;
+}
+.step-into-holistic-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 140%;
+  font-weight: 400;
+  font-family: inherit;
+  filter: drop-shadow(0 4px 17.1px rgba(0, 0, 0, 0.6));
+}
+.experience-personalized-health {
+  text-transform: lowercase;
+}
+.dive-into-the-container {
+  width: 808px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 140%;
+  font-weight: 500;
+  color: var(--color-silver-100);
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.namaste-welcome-to-amrutam-parent,
+.step-into-holistic-healing-wit-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.step-into-holistic-healing-wit-parent {
+  gap: var(--gap-base);
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.namaste-welcome-to-amrutam-parent {
+  gap: var(--gap-5xs);
+}
+.book-an-appointment {
+  height: 19px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.15px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.book-an-appointment-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-10xl) var(--padding-21xl) var(--padding-3xl);
+  background-color: var(--color-darkolivegreen-100);
+  border-radius: var(--br-base);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.frame-parent2 {
+  position: absolute;
+  top: 203px;
+  left: 98px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: var(--gap-29xl);
+  max-width: 100%;
+  z-index: 3;
+}
+.frame-div,
+.rectangle-header {
+  position: absolute;
+  left: 0;
+  background-color: var(--color-oldlace);
+}
+.rectangle-header {
+  top: -2px;
+  width: 1440px;
+  height: 80px;
+  display: none;
+}
+.frame-div {
+  top: 0;
+  width: 100%;
+  height: 739px;
+  overflow: hidden;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-oldlace);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1050px) {
+  .step-into-holistic-container {
+    font-size: var(--font-size-19xl);
+    line-height: 54px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .namaste-welcome-to {
+    font-size: var(--text-single-400-bold-size);
+  }
+  .step-into-holistic-container {
+    font-size: var(--font-size-10xl);
+    line-height: 40px;
+  }
+  .dive-into-the-container {
+    font-size: var(--font-size-base);
+    line-height: 22px;
+  }
+}

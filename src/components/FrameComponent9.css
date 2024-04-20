@@ -1,0 +1,296 @@
+.ellipse-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+  border: 0 solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.speech-bubble-2-1 {
+  position: absolute;
+  top: 16px;
+  left: 15px;
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipse-parent {
+  height: 70px;
+  flex: 1;
+  position: relative;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.convenient-online,
+.in-clinic-consultations {
+  margin: 0;
+}
+.convenient-online-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  text-transform: capitalize;
+}
+.convenient-online-in-clinic-wrapper,
+.frame-parent4 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+}
+.frame-parent4 {
+  flex: 0.9561;
+  background-color: var(--color-oldlace);
+  border: 1px solid var(--color-blanchedalmond);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-19xl) var(--padding-3xs) var(--padding-16xl)
+    var(--padding-4xl);
+  gap: var(--gap-xs);
+  min-width: 207px;
+  z-index: 4;
+}
+.frame-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+  border: 0 solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.shield-1-icon {
+  position: absolute;
+  top: 16px;
+  left: 15px;
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipse-group {
+  height: 70px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.safe-and-effective {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  text-transform: capitalize;
+}
+.frame-parent5,
+.safe-and-effective-treatment-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.safe-and-effective-treatment-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-3xs) 0 0;
+}
+.frame-parent5 {
+  width: 292px;
+  background-color: var(--color-oldlace);
+  border: 1px solid var(--color-blanchedalmond);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: var(--padding-19xl) var(--padding-smi) var(--padding-17xl)
+    var(--padding-4xl);
+  gap: var(--gap-xs);
+  z-index: 4;
+}
+.frame-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+  border: 0 solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.doctor-1-1 {
+  position: absolute;
+  top: 11px;
+  left: 11px;
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipse-container {
+  height: 70px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.title {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+}
+.frame-parent6,
+.title-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+}
+.frame-parent6 {
+  flex: 0.9125;
+  background-color: var(--color-oldlace);
+  border: 1px solid var(--color-blanchedalmond);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-19xl) var(--padding-4xl) var(--padding-17xl);
+  gap: var(--gap-xs);
+  min-width: 207px;
+  z-index: 4;
+}
+.frame-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+  border: 0 solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.prescription-1-1 {
+  position: absolute;
+  top: 14px;
+  left: 19px;
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipse-parent1 {
+  height: 70px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.personalized-treatment,
+.plans-guidance {
+  margin: 0;
+}
+.personalized-treatment-plans-container {
+  position: relative;
+  line-height: 140%;
+  text-transform: capitalize;
+}
+.personalized-treatment-plans-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+}
+.frame-parent3,
+.frame-parent7 {
+  display: flex;
+  flex-direction: row;
+}
+.frame-parent7 {
+  flex: 1;
+  background-color: var(--color-oldlace);
+  border: 1px solid var(--color-blanchedalmond);
+  box-sizing: border-box;
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-19xl) var(--padding-8xs) var(--padding-17xl)
+    var(--padding-mini);
+  gap: var(--gap-xs);
+  min-width: 201px;
+  z-index: 4;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 720px;
+  left: 100px;
+  width: 1239px;
+  align-items: flex-end;
+  justify-content: center;
+  max-width: 100%;
+  row-gap: 20px;
+  text-align: left;
+  font-size: var(--body-default-size);
+  color: var(--color-darkolivegreen-100);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1050px) {
+  .frame-parent3 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-parent4,
+  .frame-parent6 {
+    flex: 1;
+  }
+}

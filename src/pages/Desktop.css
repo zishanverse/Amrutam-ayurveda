@@ -1,0 +1,267 @@
+.desktop-24 {
+  height: 868px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-oldlace);
+  overflow: hidden;
+  max-width: 100%;
+}
+.desktop-24-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-43xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child {
+  position: absolute;
+  top: 47px;
+  left: 0;
+  background-color: var(--color-lightgray-200);
+  width: 806px;
+  height: 5px;
+}
+.discover-ayurvedas-magic {
+  margin: 0;
+}
+.discover-ayurvedas-magic-container {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  font-size: inherit;
+  line-height: 54px;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.rectangle-parent {
+  align-self: stretch;
+  height: 56px;
+  position: relative;
+}
+.a-totally-effective,
+.ayurvedic-treatment-aims {
+  margin: 0;
+}
+.ayurvedic-treatment-aims-container {
+  position: relative;
+  line-height: 28px;
+}
+.ayurvedic-treatment-aims-to-ba-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 67px 0 67.5px;
+  font-size: var(--font-size-xl);
+  color: #666;
+}
+.frame-group {
+  width: 806px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.frame-group,
+.frame-parent,
+.frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-4xl);
+  box-sizing: border-box;
+}
+.frame-parent {
+  width: 1211px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 67px;
+}
+.desktop-76-inner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) var(--padding-81xl) var(--padding-xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-darkolivegreen-100);
+  font-family: var(--font-roboto);
+}
+.desktop-76-child,
+.desktop-76-inner,
+.frame-container {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-container {
+  width: 1225px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-18xl);
+}
+.desktop-76-child {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 54px var(--padding-6xl);
+  box-sizing: border-box;
+}
+.frame-item {
+  width: 1438px;
+  height: 500px;
+  position: relative;
+  background-color: var(--color-darkolivegreen-400);
+  display: none;
+  max-width: 100%;
+}
+.information {
+  position: relative;
+  letter-spacing: 0.03em;
+  display: inline-block;
+  min-width: 102px;
+  z-index: 3;
+}
+.about-us,
+.for-businesses-hotels,
+.international-delivery,
+.privacy-policy,
+.privacy-policy-for,
+.shipping-and-returns,
+.terms-and-conditions {
+  margin: 0;
+}
+.about-us-terms-container {
+  position: relative;
+  line-height: 150%;
+  color: #474747;
+  z-index: 3;
+}
+.rectangle-group {
+  flex: 1;
+  background-color: var(--color-darkolivegreen-400);
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 109px var(--padding-xl) 170px 593px;
+  gap: 9px;
+  max-width: 100%;
+  z-index: 2;
+}
+.desktop-76,
+.frame-section,
+.rectangle-group {
+  display: flex;
+  box-sizing: border-box;
+}
+.frame-section {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-10xs) 0 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--body-default-size);
+  color: var(--color-darkolivegreen-100);
+  font-family: var(--font-roboto);
+}
+.desktop-76 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1050px) {
+  .desktop-24 {
+    height: auto;
+    min-height: 868;
+  }
+  .desktop-24-wrapper {
+    padding-bottom: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .discover-ayurvedas-magic-container {
+    font-size: var(--font-size-19xl);
+    line-height: 43px;
+  }
+  .ayurvedic-treatment-aims-to-ba-wrapper {
+    padding-left: var(--padding-14xl);
+    padding-right: var(--padding-14xl);
+    box-sizing: border-box;
+  }
+  .desktop-76-child,
+  .desktop-76-inner {
+    padding-bottom: var(--padding-46xl);
+    box-sizing: border-box;
+  }
+  .desktop-76-child {
+    padding-bottom: var(--padding-16xl);
+  }
+  .rectangle-group {
+    padding-left: 296px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent {
+    gap: var(--gap-14xl);
+  }
+  .frame-container {
+    gap: 18px;
+  }
+  .rectangle-group {
+    padding-top: 71px;
+    padding-bottom: 110px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .desktop-24-wrapper {
+    padding-bottom: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+  .discover-ayurvedas-magic-container {
+    font-size: var(--font-size-10xl);
+    line-height: 32px;
+  }
+  .ayurvedic-treatment-aims-container {
+    font-size: var(--font-size-base);
+    line-height: 22px;
+  }
+  .frame-parent {
+    gap: var(--gap-mid);
+  }
+  .desktop-76-child,
+  .desktop-76-inner {
+    padding-bottom: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+  .desktop-76-child {
+    padding-bottom: var(--padding-4xl);
+  }
+  .rectangle-group {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

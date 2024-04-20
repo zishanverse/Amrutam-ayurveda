@@ -1,0 +1,226 @@
+.image-54-icon,
+.image-57-icon {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  border-radius: var(--br-231xl-5);
+  width: 501px;
+  height: 505px;
+  object-fit: cover;
+}
+.image-57-icon {
+  top: 40px;
+  left: 0;
+  border-radius: var(--br-222xl);
+  width: 492px;
+  height: 482px;
+  z-index: 1;
+}
+.group-div,
+.image-54-parent {
+  margin: 0 !important;
+  position: absolute;
+}
+.image-54-parent {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-div {
+  height: 522px;
+  width: 503px;
+  bottom: -212px;
+  left: 340px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.focus-on-prevention {
+  align-self: stretch;
+  position: relative;
+}
+.stop-problems-even {
+  width: 178px;
+  position: relative;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-300);
+  display: inline-block;
+}
+.focus-on-prevention-parent,
+.frame-wrapper12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.focus-on-prevention-parent {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-5xs);
+}
+.frame-wrapper12 {
+  flex: 1;
+  align-items: flex-start;
+  padding: var(--padding-smi-5) 0 0;
+}
+.frame-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-mintcream);
+  width: 100%;
+  height: 100%;
+}
+.ribbon-1-icon {
+  position: absolute;
+  top: 18px;
+  left: 17px;
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipse-parent4 {
+  height: 100px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper13 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+  flex-direction: row;
+}
+.frame-parent14,
+.frame-wrapper11,
+.frame-wrapper13 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent14 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-base);
+}
+.frame-wrapper11 {
+  width: 307px;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-seashell);
+  width: 100%;
+  height: 100%;
+}
+.ayurveda-1-icon {
+  position: absolute;
+  top: 22px;
+  left: 23px;
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipse-parent5 {
+  height: 100px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper14 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.natural-remedies {
+  width: 184px;
+  position: relative;
+  display: inline-block;
+}
+.using-herbs-and {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-300);
+}
+.natural-remedies-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.frame-parent15,
+.frame-wrapper15,
+.natural-remedies-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper15 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-mini-5) 0 0;
+}
+.frame-parent15 {
+  width: 318px;
+  flex-direction: row;
+  gap: var(--gap-base);
+  text-align: left;
+}
+.frame-parent12,
+.frame-parent13,
+.frame-wrapper10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent13 {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-parent12,
+.frame-wrapper10 {
+  justify-content: flex-start;
+}
+.frame-parent12 {
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper10 {
+  align-self: stretch;
+  padding: 0 0 var(--padding-10xs) var(--padding-3xs);
+  box-sizing: border-box;
+  text-align: right;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 750px) {
+  .frame-parent13 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .focus-on-prevention,
+  .natural-remedies {
+    font-size: var(--font-size-base);
+  }
+}

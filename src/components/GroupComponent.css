@@ -1,0 +1,267 @@
+.frame-child20 {
+  align-self: stretch;
+  height: 446px;
+  position: relative;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-oldlace);
+  display: none;
+}
+.ellipse-icon {
+  height: 150px;
+  width: 149px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.div6 {
+  position: relative;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  line-height: 18px;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 22px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.material-symbolsstar-icon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 20px;
+}
+.frame-parent37 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) var(--padding-xs);
+  background-color: transparent;
+  margin: 0 !important;
+  position: absolute;
+  right: 39px;
+  bottom: -4px;
+  border-radius: var(--br-mid);
+  background: linear-gradient(180deg, #0b0b0b, rgba(11, 11, 11, 0.79));
+  overflow: hidden;
+  gap: var(--gap-9xs);
+  z-index: 2;
+}
+.ellipse-parent12,
+.frame-parent37,
+.frame-wrapper39 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ellipse-parent12 {
+  position: relative;
+}
+.frame-wrapper39 {
+  padding: 0 var(--padding-54xl);
+}
+.dr-vaishali-sharma {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 500;
+  z-index: 1;
+}
+.dr-vaishali-sharma-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl);
+  text-align: center;
+}
+.ayurveda-practitioner,
+.bams-md {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+  z-index: 1;
+}
+.bams-md {
+  display: inline-block;
+  min-width: 88px;
+}
+.ayurveda-practitioner-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
+.frame-icon,
+.years-of-experience {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  z-index: 1;
+}
+.frame-icon {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+  min-height: 24px;
+}
+.years-of-experience {
+  align-self: stretch;
+  letter-spacing: -0.01em;
+  line-height: 18px;
+  white-space: pre-wrap;
+}
+.years-of-experience-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  margin-left: -9px;
+}
+.frame-parent39,
+.frame-wrapper41 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent39 {
+  flex: 1;
+}
+.frame-wrapper41 {
+  align-self: stretch;
+  padding: 0 var(--padding-12xl) var(--padding-3xs) var(--padding-10xl-5);
+  font-size: var(--font-size-base);
+  color: var(--neutrals-1000);
+  font-family: var(--font-nunito);
+}
+.frame-icon1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.skin-specialist {
+  position: relative;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.01em;
+  line-height: 18px;
+  font-weight: 600;
+  font-family: var(--font-nunito);
+  color: var(--color-darkolivegreen-100);
+  text-align: left;
+  display: inline-block;
+  min-width: 104px;
+}
+.frame-parent40 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-smi);
+  background-color: var(--color-darkolivegreen-300);
+  border-radius: var(--br-lg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  z-index: 1;
+}
+.frame-wrapper42 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-29xl) 0 var(--padding-29xl-5);
+}
+.frame-parent38,
+.frame-wrapper40,
+.frame-wrapper42 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent38 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-6xs);
+}
+.frame-wrapper40 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl);
+}
+.book-a-session {
+  position: relative;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.01em;
+  line-height: 18px;
+  font-weight: 600;
+  font-family: var(--font-nunito);
+  color: var(--color-white);
+  text-align: left;
+}
+.book-a-session-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-4xl-5) var(--padding-xl);
+  background-color: var(--color-darkolivegreen-100);
+  align-self: stretch;
+  border-radius: 0 0 var(--br-21xl) var(--br-21xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.rectangle-parent4 {
+  width: 295px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-oldlace);
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-24xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-10xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 450px) {
+  .dr-vaishali-sharma {
+    font-size: var(--font-size-base);
+  }
+  .rectangle-parent4 {
+    padding-top: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+}

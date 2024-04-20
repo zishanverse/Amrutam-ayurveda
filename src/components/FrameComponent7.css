@@ -1,0 +1,122 @@
+.personalized-wellness1 {
+  margin: 0;
+}
+.personalized-wellness {
+  position: relative;
+}
+.personalized-wellness-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+}
+.get-treatments-made {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 19.64px;
+  color: var(--color-dimgray-300);
+  text-align: right;
+  display: inline-block;
+  min-height: 63px;
+}
+.frame-parent11,
+.frame-wrapper8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent11 {
+  align-self: stretch;
+  gap: var(--gap-5xs);
+}
+.frame-wrapper8 {
+  flex: 1;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  min-width: 151px;
+}
+.frame-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 100%;
+}
+.heartbeat-1-1 {
+  position: absolute;
+  top: 27px;
+  left: 20px;
+  width: 65px;
+  height: 55px;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipse-parent3 {
+  height: 100px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 100px;
+  z-index: 2;
+}
+.frame-parent10 {
+  width: 349px;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent10,
+.frame-parent9,
+.frame-wrapper7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent9 {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-wrapper7 {
+  width: 1175px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lgi) var(--padding-sm);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 750px) {
+  .frame-parent9 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 450px) {
+  .personalized-wellness {
+    font-size: var(--font-size-base);
+  }
+  .frame-wrapper9 {
+    flex: 1;
+  }
+  .frame-parent10 {
+    flex-wrap: wrap;
+  }
+}
